@@ -5,6 +5,6 @@ app/tmp/*
 app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 !empty
-.sass_cache/
-node_modules/
+.sass_cache/*
+node_modules/*
 npm-debug.log
