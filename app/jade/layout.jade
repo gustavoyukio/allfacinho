@@ -1,21 +1,52 @@
 doctype html
 html
-  head
-    meta(charset='utf-8')
-    meta(description='')
-    link(href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css", type="text/stylesheet")
-    link(href="/assets/css/main.css", type="text/stylesheet")
+    head
+        meta(charset='utf-8')
+        meta(keywords='Imóveis , Locação')
+        meta(description='')
+        title|abacate
+        link(rel="stylesheet", href="assets/css/main.css")
+        link(rel="stylesheet", href="http://localhost/_personal/bibliotecas/css/bootstrap.min.css")
+    body
 
-body
-  .wrapper
-    header.container-fluid
-      .row
-        .col-md-3
-          h1.
-            <i class="glyphicon glyphicon-leaf"></i> Allfacinho
-        .col-md-9
+        .wrapper
+            header
+                .container
+                    .row
+                        h1.col-xs-5
+                            img(src="", alt="")
+                            |Logo UOL
+                        .col-xs-7
+                            .row
+                                .col-xs-12
+                                    form(id="", method="", action="")
+                                        input(type="text", name="sanduiche", placeholder="Procure por um sanduiche")
+                                nav.col-xs-12
+                                    ul
+                                        li
+                                            a(href="http://", target="_blank") Registration/Login
+                                        li
+                                            a(href="http://", target="_blank") Wishlist
+                                        li
+                                            a(href="http://", target="_blank") My Account
 
-    #main(role="main")
-      block content 
+            #main(role="main")
+                .container
+                    nav.row
+                        ul.col-xs-12
+                            li
+                                a(href="http://", target="_blank") Home
+                            li
+                                a(href="http://", target="_blank") Cardapio
+                            li
+                                a(href="http://", target="_blank") Loja
+                            li
+                                a(href="http://", target="_blank") Sobre
+                            li
+                                a(href="http://", target="_blank") Contato
+                            li
+                                a(href="http://", target="_blank") Blog
 
-    footer
+                block content
+
+            footer
