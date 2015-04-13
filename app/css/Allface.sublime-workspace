@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console.log(message);"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"lists",
+				"list-style"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"nomesD",
+				"nomesDasClasses"
+			],
+			[
+				"margin",
+				"margin-auto"
+			],
+			[
+				"uptime",
+				"os.uptime();"
+			],
+			[
+				"freem",
+				"os.freemem();"
+			],
+			[
+				"cler",
+				"clearInterval"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"draw",
+				"drawFood"
+			],
+			[
+				"last",
+				"lastCellY"
+			],
+			[
+				"clear",
+				"clearInterval"
+			],
+			[
+				"sanke",
+				"snakeMovement"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"snake",
+				"snakeArray"
+			],
+			[
+				"z-i",
+				"z-index"
+			],
+			[
+				"lis",
+				"lis	list-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "init/_general.scss",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 337.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			],
+			[
+				"cake",
+				"Set Syntax: CakePHP (HTML)"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"SASS",
+				"Set Syntax: Sass"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"velocity",
+				"Set Syntax: Velocity"
+			],
+			[
+				"veloc",
+				"Set Syntax: Velocity"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"console.log(this)",
+			"this",
+			"$",
+			"this.settings",
+			"settings",
+			"word_wrap",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/www/_personal/allfacinho",
+		"/C/www/_personal/allfacinho/app",
+		"/C/www/_personal/allfacinho/app/css",
+		"/C/www/_personal/allfacinho/app/jade"
+	],
+	"file_history":
+	[
+		"/C/www/_personal/allfacinho/app/css/main.scss",
+		"/C/www/_personal/allfacinho/app/jade/index.jade",
+		"/C/www/_personal/allfacinho/app/jade/layout.jade",
+		"/C/www/_personal/allfacinho/Gruntfile.js",
+		"/C/www/_personal/new/app/jade/template.jade",
+		"/C/www/_personal/allfacinho/app/combed/css/init/_general.scss",
+		"/C/www/_personal/allfacinho/app/combed/css/main.scss",
+		"/C/Users/cad_gcruz/Desktop/boasvindas_controle_pais.html",
+		"/C/Users/cad_gcruz/Desktop/boasvindas_controle_pais_top.html",
+		"/W/temporario/assinaturas/controle-pais/boasvindas_controle_pais.html",
+		"/C/Users/cad_gcruz/AppData/Local/Temp/7zO9045.tmp/notification653.vm",
+		"/C/www/_personal/allfacinho/app/css/init/_mixins.scss",
+		"/C/www/_personal/allfacinho/app/css/init/_variables.scss",
+		"/C/www/_personal/allfacinho/app/css/init/_general.scss",
+		"/C/www/_uol/npm/pacotes/node_modules/pacote-a/package.json",
+		"/C/www/_personal/allfacinho/package.json",
+		"/C/www/_personal/allfacinho/server.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/static/app.js",
+		"/C/www/_personal/angular-gems/js/app.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/static/main.css",
+		"/C/www/_personal/angular-gems/index.html",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/index.hbs",
+		"/C/www/_uol/git/npm-uol/app.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/storage.js",
+		"/C/Users/cad_gcruz/Desktop/duas-ofertas.html",
+		"/M/crm/2014/porteira/diadascriancas/index.html",
+		"/C/www/_uol/npm/teste3/package.json",
+		"/C/www/_uol/hotsites/2015/clube-uol/dia-do-consumidor/dist/index.html",
+		"/C/www/_uol/hotsites/2015/clube-uol/carnaval/dist/index.html",
+		"/C/Users/cad_gcruz/Desktop/index.html",
+		"/C/www/_uol/npm/rep-04/package.json",
+		"/C/www/_uol/npm/temp/node_modules/rep-04/package.json",
+		"/C/www/_uol/npm/temp/node_modules/teste3/package.json",
+		"/C/www/_uol/npm/temp/node_modules/teste3/README",
+		"/C/www/_uol/git/npm-uol/index.hbs",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/index-web.js",
+		"/C/www/_uol/npm/teste3/readme.md",
+		"/C/Users/cad_gcruz/Desktop/main.css",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/entry.hbs.bkp",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/index.hbs.bkp",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/entry.hbs",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/index.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/static/main.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/static/main.css.bkp",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/css/main.css",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/config-path.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/local-fs.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/conf/full.yaml",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/conf/default.yaml",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/auth.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/js/entry.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/js/main.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/npm/node_modules/sinopia/lib/GUI/js/bootstrap-modal.js",
+		"/C/Users/cad_gcruz/.config/sinopia/config.yaml",
+		"/C/Users/cad_gcruz/.config/sinopia/storage/.sinopia-db.json",
+		"/C/Users/cad_gcruz/Desktop/SVN/templates/acesso.uol.com.br/_templates/uol/webauth/conteudo/newlogin.tpl",
+		"/C/Users/cad_gcruz/Desktop/uol.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/cad_gcruz/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/cad_gcruz/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/cad_gcruz/Desktop/footer-uol.vm",
+		"/C/Users/cad_gcruz/Desktop/SVN/clube-uol/Client/_templates/competition/winner.vm",
+		"/C/Users/cad_gcruz/Desktop/header-uol.vm",
+		"/C/Users/cad_gcruz/Desktop/estilo.vm",
+		"/C/Users/cad_gcruz/Desktop/hmenu.vm",
+		"/C/Users/cad_gcruz/Desktop/linked.vm",
+		"/S/includes/linked.vm",
+		"/S/includes/header-uol.vm",
+		"/C/Users/cad_gcruz/Desktop/boasvindas_gametrack.html",
+		"/C/Users/cad_gcruz/Desktop/boasvindas_combo_familia_semEC.html",
+		"/C/Users/cad_gcruz/Desktop/trial_wifi.html",
+		"/C/Users/cad_gcruz/Desktop/boasvindas_wifi.html",
+		"/C/Users/cad_gcruz/Desktop/trial_av_novo.html",
+		"/C/Users/cad_gcruz/Desktop/trial_at.html",
+		"/C/Users/cad_gcruz/Desktop/aplicativo-uol-mail.html",
+		"/C/www/_personal/testes/config/rotas.php",
+		"/C/www/_personal/testes/_core/controller/HomeController.php",
+		"/C/www/_personal/testes/config/runonce.php",
+		"/C/www/_personal/testes/config/var.php",
+		"/C/www/_personal/testes/index.php",
+		"/C/www/_personal/testes/.htaccess",
+		"/C/www/_personal/testes/config/funcoes.php",
+		"/C/www/_personal/testes/procura/.htaccess",
+		"/C/www/_uol/velocity/sobreuol/sobre-uol.com.br/includes/head.vm",
+		"/C/www/_personal/testes/templates/.htaccess",
+		"/C/www/_personal/testes/error.php",
+		"/C/www/_personal/discussion/app/jade/index.jade",
+		"/C/www/_personal/discussion/app/jade/template.jade",
+		"/C/www/_personal/discussion/app/css/header/_nav.scss",
+		"/C/www/_personal/discussion/app/css/geral/_var.scss",
+		"/C/www/_personal/discussion/app/css/banner/_banner.scss",
+		"/C/www/_personal/discussion/app/css/main.scss",
+		"/C/www/_personal/discussion/app/css/index/_info.scss",
+		"/C/www/_personal/erva/app/css/main.scss",
+		"/C/www/_personal/erva/app/jade/index.jade",
+		"/C/www/_personal/erva/app/jade/template.jade",
+		"/C/www/_personal/erva/Gruntfile.js",
+		"/C/www/_personal/noname/app/css/main.scss",
+		"/C/Users/cad_gcruz/Desktop/New Text Document.txt",
+		"/C/www/_personal/noname/app/jade/template.jade",
+		"/C/www/_personal/noname/app/jade/index.jade",
+		"/C/www/_personal/rolo/app/jade/template.jade",
+		"/C/www/_personal/rolo/app/jade/index.jade",
+		"/C/www/_personal/rolo2/app/Model/Item.php",
+		"/C/www/_personal/rolo2/app/Controller/HomeController.php",
+		"/C/www/_personal/rolo2/app/webroot/css/main.css",
+		"/C/www/_personal/rolo2/app/View/Layouts/default.ctp",
+		"/C/www/_personal/rolo2/app/View/Home/index.ctp",
+		"/C/www/_personal/getthejobdone/app/jade/template.jade",
+		"/C/www/_personal/rolo2/app/Config/routes.php",
+		"/C/www/_personal/rolo2/app/Controller/ItemsController.php",
+		"/C/www/_personal/rolo2/app/Config/database.php",
+		"/C/www/_personal/rolo2/app/Controller/PagesController.php",
+		"/C/www/_personal/rolo2/app/Controller/ProcuraController.php",
+		"/C/www/_personal/rolo2/app/View/Items/index.ctp",
+		"/C/www/_personal/rolo2/app/View/Procura/index.ctp",
+		"/C/www/_personal/rolo2/app/Model/AppModel.php",
+		"/C/www/_personal/rolo2/app/Config/core.php",
+		"/C/www/_personal/beta-01/app/css/init/_variables.scss",
+		"/C/www/_personal/beta-01/app/css/main.scss",
+		"/C/www/_personal/beta-01/dist/index.html",
+		"/C/www/_personal/beta-01/app/script/app.js",
+		"/C/www/_personal/beta-01/Gruntfile.js",
+		"/C/Users/cad_gcruz/AppData/Roaming/Sublime Text 3/Packages/User/jsinit.sublime-snippet",
+		"/C/www/_personal/kohana/application/classes/Controller/Welcome.php",
+		"/C/www/_personal/kohana/application/bootstrap.php",
+		"/C/www/_personal/getthejobdone/app/css/banner/banner.scss",
+		"/C/www/_personal/getthejobdone/app/css/variables/init.scss"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 109.0,
+		"where_history":
+		[
+			"C:\\Users\\cad_gcruz\\AppData\\Roaming\\npm\\node_modules\\sinopia\\",
+			"C:\\Users\\cad_gcruz\\AppData\\Roaming\\npm\\node_modules\\sinopia\\lib\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jsuol.com",
+			"$(elem)",
+			".get_pa",
+			" get_pa",
+			"get_pa",
+			"local",
+			"{{",
+			"projeto",
+			"right",
+			"*.hbs",
+			"./index-web",
+			"login",
+			"word",
+			"600",
+			"68",
+			"500",
+			"88",
+			"600",
+			"542",
+			"111",
+			"760",
+			"store",
+			"0,0,0,0.45",
+			"0,0,0,0.3",
+			"h2.\n						Item Numero 2",
+			"0,0,0,0.1",
+			"0,0,0,0.15",
+			"0,0,0,0.2",
+			"0,0,0,0",
+			"0.4",
+			"#8A933E",
+			"#6A7122",
+			"none",
+			"js",
+			"75px",
+			"loadshowcase",
+			"partner_categ",
+			"partner",
+			"newPos",
+			"blockWidth",
+			"10",
+			"size",
+			"newY",
+			"drawing",
+			"link",
+			"ul",
+			"ul]",
+			"ul",
+			"left",
+			"hotsitemidias",
+			"left",
+			"hotsite",
+			"hotsitemidias",
+			"htp",
+			"http://clicklogger.rm.uol.com.br/?prd=57&grp=src:9;chn:107;cpg:DiadasMaes2014;creative:NL_ClubeUOL_DiadasMaes2014;thm:Botao;link:EmailFilho&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www3.uol.com.br/crm/2014/maes/vfilhos&cmpid=emkt-maes-vfilhos-clubeuol",
+			"http://clicklogger.rm.uol.com.br/?prd=57&grp=src:9;chn:107;cpg:DiadasMaes2014;creative:NL_ClubeUOL_DiadasMaes2014;thm:Botao;link:EmailMae&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www3.uol.com.br/crm/2014/maes/vmaes&cmpid=emkt-maes-vmaes-clubeuol",
+			"http://clicklogger.rm.uol.com.br/?prd=57&grp=src:9;chn:307;cpg:DiadasMaes2014;creative:NL_ClubeUOL_DiadasMaes2014;thm:Botao;link:EmailMae&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www3.uol.com.br/crm/2014/maes/vmaes&cmpid=emkt-maes-vmaes-clubeuol",
+			"http://clicklogger.rm.uol.com.br/?prd=57&grp=src:9;chn:307;cpg:DiadasMaes2014;creative:NL_ClubeUOL_DiadasMaes2014;thm:Botao;link:EmailFilho&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www3.uol.com.br/crm/2014/maes/vfilhos&cmpid=emkt-maes-vfilhos-clubeuol",
+			"info",
+			"details",
+			"cmpid=hotsite",
+			"images/",
+			"hotsitemidias",
+			"hotsite-maes",
+			"cmpid=hotsite-maes",
+			"dia_das_maes/images",
+			"src=\"images/",
+			"../",
+			"url(../",
+			"720px",
+			"block",
+			"src: local('/fonts/UOLdisplay_bold.ttf');",
+			"');\n",
+			"http://clube.uol.com.br/parceiros/aWR0UGVyc29uPTE2NzczMTk1OA==?cmpid=emkt-hopihari-repique-clubeuol",
+			"title",
+			"a href",
+			"http://mkt.imguol.com/emails/2014/hopihari",
+			"http://localhost/images/email/2014/",
+			"apache",
+			" ",
+			"https:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\www\\_personal\\allfacinho"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "init/_general.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 59,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\cad_gcruz\\Documents\\projetos\\conf.sublime-project"
+			],
+			[
+				"CONF",
+				"C:\\Users\\cad_gcruz\\Documents\\projetos\\conf.sublime-project"
+			],
+			[
+				"conf",
+				"C:\\Users\\cad_gcruz\\Documents\\projetos\\conf.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

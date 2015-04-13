@@ -31,13 +31,27 @@ module.exports = function(grunt) {
           style: "compressed"
         },
         files: {
-        	'dist/assets/css/main.css':'app/css/main.scss'
+        	'dist/assets/css/main.css':'app/combed/css/main.scss'
         }
       }
     },
+    csscomb: {
+      dynamic_mappings: {
+          expand: true,
+          cwd: 'app/css/',
+          src: ['**/*.scss', '!*.resorted.css'],
+          dest: 'app/combed/css/',
+          ext: '.scss'
+      }
+    },
+
     watch: {
-      css: {
+      comb: {
         files: 'app/css/**/*.scss',
+        tasks: ['csscomb']
+      },
+      css: {
+        files: 'app/combed/**/*.scss',
         tasks: ['sass']
       },
       jade: {
@@ -57,6 +71,7 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-copy');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-sass');
+  grunt.loadNpmTasks('grunt-csscomb');
   //grunt.loadNpmTasks('grunt-contrib-copy');
 
   // Default task.

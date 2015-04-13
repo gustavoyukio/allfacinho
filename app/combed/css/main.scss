@@ -1,14 +1,14 @@
- $imgPath: "../imagens";
- @debug $imgPath;
+ $imgPath : "../imagens";
+@debug $imgPath;
 
 .wrapper{
   max-width : 1280px;
-  background-color: #FFFfff;
-  margin: 40px auto;
+  background-color : #ffffff;
+  margin : 40px auto;
 }
 
-.container {
-    width: 1380px;
+.container{
+  width : 1380px;
 }
 
 // General
