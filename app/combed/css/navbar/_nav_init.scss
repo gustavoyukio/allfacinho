@@ -1,10 +1,21 @@
-nav{
-  ul{
-    list-style : none;
-    padding : 0;
-    margin : 0;
-    li{
-      display : inline-block;
+.navbar.new-navbar
+{
+    background: #fc5f10;
+    .nav.navbar-nav > li > a
+    {
+        margin: 10px 0;
+        padding: 5px 20px;
+
+        color: #fff;
+        border-top: 3px solid #fc5f10;
+        border-bottom: 3px solid #fc5f10;
+        background-color: transparent;
     }
-  }
+    .nav.navbar-nav li.active > a,
+    .nav.navbar-nav > li > a:hover,
+    .nav.navbar-nav > li > a:focus
+    {
+        border-top: 3px solid #fff;
+        border-bottom: 3px solid #fff;
+    }
 }

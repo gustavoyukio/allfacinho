@@ -1,52 +1,64 @@
 doctype html
 html
-    head
-        meta(charset='utf-8')
-        meta(keywords='Imóveis , Locação')
-        meta(description='')
-        title|abacate
-        link(rel="stylesheet", href="assets/css/main.css")
-        link(rel="stylesheet", href="http://localhost/_personal/bibliotecas/css/bootstrap.min.css")
-    body
+	head
+		meta(charset='utf-8')
+		meta(keywords='Imóveis , Locação')
+		meta(description='')
+		title|abacate
+		link(rel="stylesheet", href="assets/css/main.css")
+		link(rel="stylesheet", href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css")
+	body
 
-        .wrapper
-            header
-                .container
-                    .row
-                        h1.col-xs-5
-                            img(src="", alt="")
-                            |Logo UOL
-                        .col-xs-7
-                            .row
-                                .col-xs-12
-                                    form(id="", method="", action="")
-                                        input(type="text", name="sanduiche", placeholder="Procure por um sanduiche")
-                                nav.col-xs-12
-                                    ul
-                                        li
-                                            a(href="http://", target="_blank") Registration/Login
-                                        li
-                                            a(href="http://", target="_blank") Wishlist
-                                        li
-                                            a(href="http://", target="_blank") My Account
+		.wrapper
+			header
+				.container
+					.row
+						h1.col-xs-5
+							img(src="", alt="")
+							|Logo UOL
+						nav.col-xs-7
+							ul
+								li
+									a(href="http://") Registration/Login
+								li
+									a(href="http://") Wishlist
+								li
+									a(href="http://") My Account
 
-            #main(role="main")
-                .container
-                    nav.row
-                        ul.col-xs-12
-                            li
-                                a(href="http://", target="_blank") Home
-                            li
-                                a(href="http://", target="_blank") Cardapio
-                            li
-                                a(href="http://", target="_blank") Loja
-                            li
-                                a(href="http://", target="_blank") Sobre
-                            li
-                                a(href="http://", target="_blank") Contato
-                            li
-                                a(href="http://", target="_blank") Blog
+			#main(role="main")
+				nav.navbar.navbar-default.new-navbar
+					.container
+						.collapse.navbar-collapse(id="bs-example-navbar-collapse-1")
+							ul.nav.navbar-nav
+								li.active
+									a(href="#") Home
+								li
+									a(href="#") Cardápio
+								li
+									a(href="#") Promoções
+								li
+									a(href="#") Contato
+								li
+									a(href="#") Área de Cobertura
+								li.dropdown
+									a(href="#", class="dropdown-toggle", data-toggle="dropdown", role="button", aria-expanded="false") A Empresa <span class="caret"></span>
+									ul.dropdown-menu(role="menu")
+										li.active
+											a(href="#depoimentos") Depoimentos
+										li
+											a(href="#sobre") Sobre
+										li
+											a(href="#contato") Contato
+										li
+											a(href="#quem-somos") Quem Somos
 
-                block content
+							form.navbar-form.navbar-right(role="search")
+								.form-group
+									input(type="text" class="form-control", placeholder="Procura")
+								button(type="submit", class="btn btn-default") Procurar
 
-            footer
+				block content
+
+		footer
+		script(src="https://code.jquery.com/jquery-2.1.4.min.js")
+		script(src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js")

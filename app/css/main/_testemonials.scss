@@ -1,0 +1,18 @@
+.testemonials {
+	h2 {
+		font: normal 36px/36px Cantarell, Arial;
+		color: #4d4d4d;
+	}
+	li {
+		margin-bottom: 15px;
+		margin-top: 15px;
+		font-size: 12px;
+		img {
+			float: left;
+			width: 50px;
+			height: 50px;
+			margin-right: 10px;
+			border-radius: 50%;
+		}
+	}
+}

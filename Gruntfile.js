@@ -28,7 +28,7 @@ module.exports = function(grunt) {
     sass: {
       dist: {
         options: {
-          style: "compressed"
+          style: "expanded"
         },
         files: {
         	'dist/assets/css/main.css':'app/combed/css/main.scss'
